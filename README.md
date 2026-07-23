@@ -10,3 +10,6 @@ This repository contains my FlyRank Frontend Capstone project.
 
 ## Status
 Work in progress.
+
+## Goal
+Practice frontend development as part of the FlyRank internship.
