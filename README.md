@@ -7,3 +7,6 @@ This repository contains my FlyRank Frontend Capstone project.
 - HTML
 - CSS
 - JavaScript
+
+## Status
+Work in progress.
